@@ -1,0 +1,8 @@
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\bin\Debug\netcoreapp2.2\NetCoreLinqExamples.deps.json
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\bin\Debug\netcoreapp2.2\NetCoreLinqExamples.runtimeconfig.json
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\bin\Debug\netcoreapp2.2\NetCoreLinqExamples.runtimeconfig.dev.json
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\bin\Debug\netcoreapp2.2\NetCoreLinqExamples.dll
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\obj\Debug\netcoreapp2.2\NetCoreLinqExamples.csprojAssemblyReference.cache
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\obj\Debug\netcoreapp2.2\NetCoreLinqExamples.csproj.CoreCompileInputs.cache
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\obj\Debug\netcoreapp2.2\NetCoreLinqExamples.AssemblyInfoInputs.cache
+C:\Repositories Personal\NetCoreLinqExamples\NetCoreLinqExamples\obj\Debug\netcoreapp2.2\NetCoreLinqExamples.AssemblyInfo.cs
