@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositories Personal\\NetCoreLinqExamples\\NetCoreLinqExamples\\NetCoreLinqExamples.csproj",
+      "projectUniqueName": "C:\\Repositories Personal\\GitHub\\NETCoreLinqExamples\\NetCoreLinqExamples\\NetCoreLinqExamples.csproj",
       "projectName": "NetCoreLinqExamples",
-      "projectPath": "C:\\Repositories Personal\\NetCoreLinqExamples\\NetCoreLinqExamples\\NetCoreLinqExamples.csproj",
+      "projectPath": "C:\\Repositories Personal\\GitHub\\NETCoreLinqExamples\\NetCoreLinqExamples\\NetCoreLinqExamples.csproj",
       "packagesPath": "C:\\Users\\Alejandro Tortolero\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositories Personal\\NetCoreLinqExamples\\NetCoreLinqExamples\\obj\\",
+      "outputPath": "C:\\Repositories Personal\\GitHub\\NETCoreLinqExamples\\NetCoreLinqExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
